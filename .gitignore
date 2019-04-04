@@ -1,3 +1,6 @@
+# IDE cache
+.idea
+
 # Logs
 logs
 *.log
